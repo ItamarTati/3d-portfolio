@@ -179,7 +179,8 @@ const projects = [
     ],
     image: anime,
     source_code_link: "https://github.com/ItamarTati/anime-picker-client",
-    live_link: "https://anime-picker.vercel.app/"
+    live_link: "https://anime-picker.vercel.app/",
+    youtube_video: "https://www.youtube.com/watch?v=kzVyWzea0as"
   },
   {
     name: "Angular E-Commerce",
@@ -201,7 +202,8 @@ const projects = [
     ],
     image: ecomm,
     source_code_link: "https://github.com/ItamarTati/Angular-E-Commerce-Store",
-    live_link: "https://angular-e-commerce-store.vercel.app/"
+    live_link: "https://angular-e-commerce-store.vercel.app/",
+    youtube_video: "https://www.youtube.com/watch?v=BXI9bAYHn30"
   }
 ];
 
