@@ -54,14 +54,6 @@ const ProjectCard = ({
               View Live Website
             </a>
           </p>
-          <p><a className="font-medium text-blue-600 underline dark:text-blue-500 hover:no-underline"
-            href={youtube_video}
-            target="_blank"
-            >
-              View Video Explaining Code in Detail
-          </a>
-          </p>
-
         </div>
 
         <div className='mt-4 flex flex-wrap gap-2'>
